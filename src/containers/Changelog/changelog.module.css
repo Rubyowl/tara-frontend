@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.container_changelog {
+    padding-top: 2%;
+    width: 70%;
+}
+
+.headerStyle{
+    text-align: center;
+    padding: 2rem;
+}

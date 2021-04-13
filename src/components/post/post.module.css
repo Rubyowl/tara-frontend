@@ -1,0 +1,38 @@
+.container_collapsed{
+    height: 100px;
+    overflow: hidden;
+    border: gray solid 1px;
+    margin-bottom: 5%;
+    background-color: white;
+    border-radius: 25px;
+}
+
+.container_open{
+    height: fit-content;
+    border: gray solid 1px;
+    margin-bottom: 2%;
+    background-color: white;
+    border-radius: 25px;
+}
+
+.header {
+    padding-top: 1%;
+    padding-left: 1%;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.date {
+    padding-left: 1%;
+    color: deepskyblue;
+    text-decoration: underline;
+    text-align: left;
+}
+
+.text {
+    padding-left: 3%;
+    text-align: left;
+    padding-bottom: 2%;
+}
+
+
